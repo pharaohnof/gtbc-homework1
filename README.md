@@ -53,7 +53,7 @@ The following image shows the web application's appearance and functionality:
 
 ## Result
 
-Using semantic code and simplifaction, I refactored the given code to meet all of the acceptance criteria without changing the appearance or functionality of the webpage.
+Using semantic code and simplification, I refactored the given code to meet all of the acceptance criteria without changing the appearance or functionality of the webpage.
 
 The following screenshots show resulting Webpage, HTML and CSS code:
 
